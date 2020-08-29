@@ -7,8 +7,25 @@
 
 - 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.
 
-    ##### I speak :it: - C1 Level | :us: C1 Level | :de: - B2+ Level  
-    ##### In  my free time, I tend to improve my languages :fr:  (French) and :cn: (Chinese) through Duolingo 
+
+<details>
+<summary>Cybersecurity</summary>
+<br>
+Description
+</details>
+<details>
+<summary>Multimedia Engineering</summary>
+<br>
+This is how you dropdown.
+</details>
+<details>
+<summary>Machine Vision and Data Science </summary>
+<br>
+This is how you dropdown.
+</details>
+
+   ##### I speak :it: - C1 Level | :us: C1 Level | :de: - B2+ Level  
+   ##### In  my free time, I tend to improve my languages :fr:  (French) and :cn: (Chinese) through Duolingo 
 
 
 ## SKILLS AND PROGRAMMING LANGUAGES I AM CURRENTLY FOCUSED ON
@@ -35,8 +52,10 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
  
  
 ## Written Blog Posts
-
-   dev.to Posts | My Blog Posts
-   ------------ | -------------
+<details>
+<summary>DEV.TO BLOG POSTS</summary>
+<br>
+ - blog post 1
+</details>
 
 
