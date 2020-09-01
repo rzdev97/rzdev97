@@ -62,4 +62,5 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
  - blog post 1
 </details>
 
-
+######                                                                                                                                                ALSO IN: IT DE FR
+ 
