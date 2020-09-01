@@ -19,12 +19,10 @@ Description
 <details>
 <summary>Multimedia Engineering</summary>
 <br>
-This is how you dropdown.
-</details>
-<details>
-<summary>Machine Vision and Data Science </summary>
-<br>
-This is how you dropdown.
+ Multimedia Engineering is <br/>
+ <img src="https://github.com/rzdev97/rzdev97/blob/master/images/MOBILE%20APPLICATIONS%20UI_UX%20AND%20APP%20DEVELOPMENT.png" width="300px" />
+ <img src="https://github.com/rzdev97/rzdev97/blob/master/images/MOBILE%20APPLICATIONS%20UI_UX%20AND%20APP%20DEVELOPMENT%20(1).png" width="300px" />
+ <img src="https://github.com/rzdev97/rzdev97/blob/master/images/MOBILE%20APPLICATIONS%20UI_UX%20AND%20APP%20DEVELOPMENT%20(2).png" width="300px" />
 </details>
 
    ##### I speak :it: - C1 Level | :us: C1 Level | :de: - B2+ Level  
