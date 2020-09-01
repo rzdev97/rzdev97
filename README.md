@@ -2,7 +2,9 @@
 
  # R.Zorzi
  <img src="https://github.com/rzdev97/rzdev97/blob/master/images/Cables.png" width="1900px" />
-
+ 
+ ##### | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() | 
+<hr>
 
 
 - 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.
