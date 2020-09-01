@@ -31,11 +31,13 @@ This is how you dropdown.
 ## SKILLS AND PROGRAMMING LANGUAGES I AM CURRENTLY FOCUSED ON
 
 - 🌱 I’m currently learning and improving my skills in programming language: JAVA, PYTHON, C/C++, RUBY
-   -   :arrow_right: [Progress Notebook in Java](https://github.com/rzdev97/rzdev97/tree/master/JavaNotebook) ( edited and material added when improving skills)
-   -   :arrow_right: [Progress Notebook in Python](https://github.com/rzdev97/rzdev97/tree/master/PythonNotebook) ( edited and material added when improving skills)
-   -   :arrow_right: [Progress Notebook in C/C++](https://github.com/rzdev97/rzdev97/tree/master/CFamilyNotebook) ( edited and material added when improving skills)
-   -   :arrow_right: [Progress Notebook in Ruby](https://github.com/rzdev97/rzdev97/tree/master/RubyNotebook)( edited and material added when improving skills)
+   -   :notebook: [Progress Notebook in Java](https://github.com/rzdev97/rzdev97/tree/master/JavaNotebook) ( edited and material added when improving skills)
+   -   :notebook: [Progress Notebook in Python](https://github.com/rzdev97/rzdev97/tree/master/PythonNotebook) ( edited and material added when improving skills)
+   -   :notebook: [Progress Notebook in C/C++](https://github.com/rzdev97/rzdev97/tree/master/CFamilyNotebook) ( edited and material added when improving skills)
+   -   :notebook: [Progress Notebook in Ruby](https://github.com/rzdev97/rzdev97/tree/master/RubyNotebook)( edited and material added when improving skills)
 
+   - :file_folder: [ERLANG PROGRAMMING LIBRARIES](https://github.com/rzdev97/rzdev97/tree/master/ErlangNotebook) ( edited and material added when improving skills)
+   
 NOTE: the above notebooks are my progress in skills improvement, in other words they are not textbooks or learning material.
 
 ### Collaboration Ready
