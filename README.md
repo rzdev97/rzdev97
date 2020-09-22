@@ -56,7 +56,9 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
  - check typos and spelling in the email content, will disregard if I see low email writing commitment
  - no friendly words ( I do not know you, stay professional)
  
+ ## SOME STATS ON MY GITHUB PROFILE
  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rzdev97&theme=onedark)](https://github.com/rzdev97/github-profile-trophy)
  
 ## Written Blog Posts
 <details>
@@ -65,5 +67,5 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
  - blog post 1
 </details>
 
-######                                                                                                                                                ALSO IN: IT DE FR
+######                                                                                                                                                ALSO IN: [IT](https://github.com/rzdev97) DE FR
  
