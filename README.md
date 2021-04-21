@@ -10,7 +10,9 @@
 <img src="https://github.com/rzdev97/rzdev97/blob/master/images/2.png" width="1900px" />
 
 - 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.
-
+<summary><h2>:desktop_computer: Software Currently Learning </h2></summary>
+  <p></p>
+</details>
 
    ##### I speak :it: - C1 Level | :us: C1 Level | :de: - B2+ Level  
    ##### In  my free time, I tend to improve my languages :fr:  (French) and :cn: (Chinese) through Duolingo 
