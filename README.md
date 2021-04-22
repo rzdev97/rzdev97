@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.
 <summary><h2>:desktop_computer: Software Currently Learning </h2></summary>
   <p>
-<img src="https://github.com/rzdev97/rzdev97/blob/master/images/3.png" width="300px" />
- <img src="https://github.com/rzdev97/rzdev97/blob/master/images/4.png" width="300px" />
- <img src="https://github.com/rzdev97/rzdev97/blob/master/images/5.png" width="300px" />
+<img src="https://github.com/rzdev97/rzdev97/blob/master/images/3.png" width="250px" />
+ <img src="https://github.com/rzdev97/rzdev97/blob/master/images/4.png" width="250px" />
+ <img src="https://github.com/rzdev97/rzdev97/blob/master/images/5.png" width="250px" />
 </p>
 </details>
 
