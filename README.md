@@ -5,7 +5,11 @@
  
  ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() | 
 <hr>
-
+<table>
+ <thead> </thead>
+  <thead> </thead>
+  <thead> </thead>
+ </table>
 <img src="https://github.com/rzdev97/rzdev97/blob/master/images/1.png" width="1900px" />
 <img src="https://github.com/rzdev97/rzdev97/blob/master/images/2.png" width="1900px" />
 
