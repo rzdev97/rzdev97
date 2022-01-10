@@ -12,7 +12,7 @@ Quick Infos         |  Description
 <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  |  <p align="left" >- 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.</p>
 
 
-
+[1] <em> Skill Matrix Picture taken from my TryHackMe Profile </em>
 
 ## SKILLS AND PROGRAMMING LANGUAGES I AM CURRENTLY FOCUSED ON
 
