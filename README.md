@@ -3,7 +3,7 @@
  # R.Zorzi
  <img src="https://github.com/rzdev97/rzdev97/blob/master/images/Hackius Ninja.png" width="1900px" />
  
- ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() |   🌐 [My Portfolio Site]("rzdev97.github.io")
+ ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() |   🌐 [My Portfolio Site]("https://rzdev97.github.io")
 
 <hr>
 
