@@ -45,6 +45,11 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
 | Training Playgrounds    | ![TryHackMe](https://img.shields.io/badge/-TryHackMe-1d3557?style=for-the-badge&logo=tryhackme&logoColor=white) |
 
 ---
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+---
+
 ### Collaboration Ready
 - 👯 I’m looking to collaborate on open-source that have as main areas the ones listed on the top of this page since I would like to have hands-on skills in this type of fields. I am also interested in supporting/ volunteering with NGOs that have as goal to bring digital and computer literacy to the society.
 
