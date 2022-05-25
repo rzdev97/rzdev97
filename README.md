@@ -1,22 +1,56 @@
-### Hi there 👋
 
- # R.Zorzi
- <img src="https://github.com/rzdev97/rzdev97/blob/master/images/Hackius Ninja.png" width="1900px" />
+ <img src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/Rene'%20Zorzi.png" width="2050px" />
  
  ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() |   🌐 [My Portfolio Site]("https://rzdev97.github.io")
 
 <hr>
 
-Quick Infos         |  Description
-:-------------------------:|:-------------------------:
-<img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  |  <p align="left" >- 🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.</p>
+
+<p>
+  <a href="rzdev97.github.io"><img width="400" align='left' src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="200px"></a>
+</p>
+
+### About Me
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<hr>
 
 
-[1] <em> Skill Matrix Picture taken from my TryHackMe Profile </em>
+### Areas Of Interest
+#### Web Security
+<p>
+  <a href="rzdev97.github.io"><img width="300" align='left' src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R.png"  borderRadius:50px height="200px"></a>
+</p>
+   <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
+
+
+
+
+
+
+#### Malware Analysis 
+<p>
+  <a href="rzdev97.github.io"><img width="300" align='right' src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R.png"  borderRadius:50px height="200px"></a>
+</p>
+   <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
+
+#### Programming & Design
+<p>
+  <a href="rzdev97.github.io"><img width="300" align='left' src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R.png"  borderRadius:50px height="200px"></a>
+</p>
+   <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
+<hr>
+
+### Projects
+
+---
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+---
+
 
 ## SKILLS AND PROGRAMMING LANGUAGES I AM CURRENTLY FOCUSED ON
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -27,28 +61,10 @@ Quick Infos         |  Description
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoHeight=100px)
 
 
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
+ ![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)  
+ ![TryHackMe](https://img.shields.io/badge/-TryHackMe-1d3557?style=for-the-badge&logo=tryhackme&logoColor=white) 
 
-- 🌱 I’m currently learning and improving my skills in programming language: JAVA, PYTHON, C/C++, RUBY
-   -   :notebook: [Progress Notebook in Java](https://github.com/rzdev97/rzdev97/tree/master/JavaNotebook) ( edited and material added when improving skills)
-   -   :notebook: [Progress Notebook in Python](https://github.com/rzdev97/rzdev97/tree/master/PythonNotebook) ( edited and material added when improving skills)
-   -   :notebook: [Progress Notebook in C/C++](https://github.com/rzdev97/rzdev97/tree/master/CFamilyNotebook) ( edited and material added when improving skills)
-   -   :notebook: [Progress Notebook in Ruby](https://github.com/rzdev97/rzdev97/tree/master/RubyNotebook)( edited and material added when improving skills)
-
-   - :file_folder: [ERLANG PROGRAMMING LIBRARIES](https://github.com/rzdev97/rzdev97/tree/master/ErlangNotebook) ( edited and material added when improving skills)
-   
-NOTE: the above notebooks are my progress in skills improvement, in other words they are not textbooks or learning material.
-
-| Option |  |
-| ------ | ----------- |
-| OS/Distros |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) |
-| Wearable OS |![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)  |
-| Training Playgrounds    | ![TryHackMe](https://img.shields.io/badge/-TryHackMe-1d3557?style=for-the-badge&logo=tryhackme&logoColor=white) |
-
----
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
----
 
 ### Collaboration Ready
 - 👯 I’m looking to collaborate on open-source that have as main areas the ones listed on the top of this page since I would like to have hands-on skills in this type of fields. I am also interested in supporting/ volunteering with NGOs that have as goal to bring digital and computer literacy to the society.
@@ -65,19 +81,13 @@ NOTE: the above notebooks are my progress in skills improvement, in other words 
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=rzdev97&theme=onedark)](https://github.com/rzdev97/github-profile-trophy)
  
- - [ ] Code
+ 
  
 ## Written Blog Posts
-<details>
-<summary>DEV.TO BLOG POSTS</summary>
-<br>
-	<a href="">Lorem Ipsum</a> <br/>
-<a href="">Lorem Ipsum</a> <br/>
- <a href="">Lorem Ipsum</a> <br/>
-<a href="">Lorem Ipsum</a> <br/>
-<a href="">Lorem Ipsum</a> <br/>
-<a href="">Lorem Ipsum</a> <br/>
-</details>
+<p align='center'>
+  <a href=""><img width="200"  src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R (1).png" height="170px"></a>
+<a href="rzdev97.github.io" > <br/> CHECK MY BLOG </a>
+</p>
 
-######                                                                                                                                                ALSO IN: [IT](https://github.com/rzdev97) DE FR
+######                              
  
