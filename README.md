@@ -1,7 +1,7 @@
 
  <img src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/Rene'%20Zorzi.png" width="2050px" />
  
- ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() |   🌐 [My Portfolio Site]("https://rzdev97.github.io")
+ ##### | [ABOUT ME]() | [AREA OF INTERESTS]() |  [SKILLS/PORTFOLIO]() |  [ CONTACT ME ]() |   🌐 [My Blog/Portfolio Site](https://www.hackius.ninja/)
 
 <hr>
 
