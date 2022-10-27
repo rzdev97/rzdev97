@@ -23,22 +23,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
    <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
 
-
-
-
-
-
-#### Malware Analysis 
+#### Programming & Design | GUI/CLI Interfaces Prototype | Backend & frontend
 <p>
   <a href="rzdev97.github.io"><img width="300" align='right' src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R.png"  borderRadius:50px height="200px"></a>
 </p>
    <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
 
-#### Programming & Design
+
+
+
+#### IoT systems
 <p>
   <a href="rzdev97.github.io"><img width="300" align='left' src="https://raw.githubusercontent.com/rzdev97/rzdev97/master/images/R.png"  borderRadius:50px height="200px"></a>
 </p>
    <p align="left" >  🔭 I’m currently working on becoming more proficient in technologies such as Computer Networks, Cryptography/Cybersecurity and Data Science, while still being a Computer Science Student. During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing piano.During my free time I do improve in programming languages and try to master the common libraries for the topics that I would like to pursue as well as detaching from the geek activities and do some sport or playing pianoDuring my free time I do improve in programming languages and try to </p>
+
+
 <hr>
 
 ### Projects
